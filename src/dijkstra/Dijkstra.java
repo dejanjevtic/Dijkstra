@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package dijkstra;
-
+/* komentar */
 import java.util.*;
 import java.lang.*; 
 import java.io.*; 
